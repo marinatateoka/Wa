@@ -1,0 +1,651 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test <Home /> component (Shallow) render unchanged from previous snapshot 1`] = `
+<Home>
+  <Container
+    style={
+      Object {
+        "marginTop": 60,
+        "width": "100%",
+      }
+    }
+  >
+    <div
+      className="ui container"
+      style={
+        Object {
+          "marginTop": 60,
+          "width": "100%",
+        }
+      }
+    >
+      <Image
+        as="img"
+        bordered={true}
+        style={
+          Object {
+            "alignItems": "center",
+            "backgroundImage": "url(images/waitangi.jpg)",
+            "backgroundSize": "cover",
+            "display": "flex",
+            "flexWrap": "wrap",
+            "height": 720,
+            "justifyContent": "center",
+            "margin": 0,
+            "opacity": 0.5,
+            "padding": 0,
+            "width": "100%",
+          }
+        }
+        ui={true}
+      >
+        <div
+          className="ui bordered image"
+          style={
+            Object {
+              "alignItems": "center",
+              "backgroundImage": "url(images/waitangi.jpg)",
+              "backgroundSize": "cover",
+              "display": "flex",
+              "flexWrap": "wrap",
+              "height": 720,
+              "justifyContent": "center",
+              "margin": 0,
+              "opacity": 0.5,
+              "padding": 0,
+              "width": "100%",
+            }
+          }
+        >
+          <div>
+            <HeaderText>
+              <Header
+                style={
+                  Object {
+                    "color": "#ffffff",
+                    "fontSize": "30px",
+                    "textShadow": "1px 1px #000000",
+                  }
+                }
+                textAlign="center"
+              >
+                <div
+                  className="ui center aligned header"
+                  style={
+                    Object {
+                      "color": "#ffffff",
+                      "fontSize": "30px",
+                      "textShadow": "1px 1px #000000",
+                    }
+                  }
+                >
+                  <HeaderContent>
+                    <div
+                      className="content"
+                    >
+                      Nou te rourou 
+                      <br />
+                      Naku te rourou 
+                      <br />
+                      kia ora ai te iwi
+                    </div>
+                  </HeaderContent>
+                </div>
+              </Header>
+            </HeaderText>
+            <Divider
+              inverted={true}
+            >
+              <div
+                className="ui inverted divider"
+              />
+            </Divider>
+            <HeaderText>
+              <Header
+                style={
+                  Object {
+                    "color": "#ffffff",
+                    "fontSize": "30px",
+                    "textShadow": "1px 1px #000000",
+                  }
+                }
+                textAlign="center"
+              >
+                <div
+                  className="ui center aligned header"
+                  style={
+                    Object {
+                      "color": "#ffffff",
+                      "fontSize": "30px",
+                      "textShadow": "1px 1px #000000",
+                    }
+                  }
+                >
+                  <HeaderContent>
+                    <div
+                      className="content"
+                    >
+                      With your food basket  
+                      <br />
+                      and my food basket 
+                      <br />
+                      the people will thrive
+                    </div>
+                  </HeaderContent>
+                </div>
+              </Header>
+            </HeaderText>
+          </div>
+        </div>
+      </Image>
+    </div>
+  </Container>
+  <Divider
+    inverted={true}
+  >
+    <div
+      className="ui inverted divider"
+    />
+  </Divider>
+  <Header
+    size="huge"
+    style={
+      Object {
+        "alignItems": "center",
+        "display": "flex",
+        "flexWrap": "wrap",
+        "justifyContent": "center",
+      }
+    }
+  >
+    <div
+      className="ui huge header"
+      style={
+        Object {
+          "alignItems": "center",
+          "display": "flex",
+          "flexWrap": "wrap",
+          "justifyContent": "center",
+        }
+      }
+    >
+       Getting Started 
+    </div>
+  </Header>
+  <Divider
+    inverted={true}
+  >
+    <div
+      className="ui inverted divider"
+    />
+  </Divider>
+  <Grid
+    style={
+      Object {
+        "alignItems": "center",
+        "display": "flex",
+        "flexWrap": "wrap",
+        "justifyContent": "center",
+      }
+    }
+  >
+    <div
+      className="ui grid"
+      style={
+        Object {
+          "alignItems": "center",
+          "display": "flex",
+          "flexWrap": "wrap",
+          "justifyContent": "center",
+        }
+      }
+    >
+      <GridColumn
+        computer={4}
+        mobile={12}
+        tablet={8}
+      >
+        <div
+          className="four wide computer twelve wide mobile eight wide tablet column"
+        >
+          <Description
+            imageText={
+              <HeaderText>
+                Taking and 
+                <br />
+                 Offering Mahi
+              </HeaderText>
+            }
+            imageURL="images/placeholder.jpg"
+            title="Mahi"
+          >
+            <Header
+              as="h3"
+              attached="top"
+              size="huge"
+              style={
+                Object {
+                  "backgroundColor": "#123b26",
+                  "color": "white",
+                }
+              }
+              textAlign="center"
+            >
+              <h3
+                className="ui huge top attached center aligned header"
+                style={
+                  Object {
+                    "backgroundColor": "#123b26",
+                    "color": "white",
+                  }
+                }
+              >
+                Mahi
+              </h3>
+            </Header>
+            <Container>
+              <div
+                className="ui container"
+              >
+                <Image
+                  as="img"
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "backgroundImage": "url(images/placeholder.jpg)",
+                      "backgroundRepeat": "no-repeat",
+                      "backgroundSize": "cover",
+                      "display": "flex",
+                      "flexWrap": "wrap",
+                      "height": "250px",
+                      "justifyContent": "center",
+                      "opacity": 0.5,
+                      "width": "100%",
+                    }
+                  }
+                  ui={true}
+                >
+                  <div
+                    className="ui image"
+                    style={
+                      Object {
+                        "alignItems": "center",
+                        "backgroundImage": "url(images/placeholder.jpg)",
+                        "backgroundRepeat": "no-repeat",
+                        "backgroundSize": "cover",
+                        "display": "flex",
+                        "flexWrap": "wrap",
+                        "height": "250px",
+                        "justifyContent": "center",
+                        "opacity": 0.5,
+                        "width": "100%",
+                      }
+                    }
+                  >
+                    <HeaderText>
+                      <Header
+                        style={
+                          Object {
+                            "color": "#ffffff",
+                            "fontSize": "30px",
+                            "textShadow": "1px 1px #000000",
+                          }
+                        }
+                        textAlign="center"
+                      >
+                        <div
+                          className="ui center aligned header"
+                          style={
+                            Object {
+                              "color": "#ffffff",
+                              "fontSize": "30px",
+                              "textShadow": "1px 1px #000000",
+                            }
+                          }
+                        >
+                          <HeaderContent>
+                            <div
+                              className="content"
+                            >
+                              Taking and 
+                              <br />
+                               Offering Mahi
+                            </div>
+                          </HeaderContent>
+                        </div>
+                      </Header>
+                    </HeaderText>
+                  </div>
+                </Image>
+              </div>
+            </Container>
+            <Segment
+              size="huge"
+              style={
+                Object {
+                  "fontSize": "1.25rem",
+                  "height": "14em",
+                  "marginBottom": "2em",
+                }
+              }
+              textAlign="center"
+            >
+              <div
+                className="ui huge center aligned segment"
+                style={
+                  Object {
+                    "fontSize": "1.25rem",
+                    "height": "14em",
+                    "marginBottom": "2em",
+                  }
+                }
+              >
+                <p>
+                  Taking its literal meaning, mahi is the act of working or doing.
+                </p>
+                <p>
+                  Wā uses Mahi to facilitate the give and take between people in the community — members exchange wā/time when a mahi is offered or completed.
+                </p>
+              </div>
+            </Segment>
+          </Description>
+        </div>
+      </GridColumn>
+      <GridColumn
+        computer={4}
+        mobile={12}
+        tablet={8}
+      >
+        <div
+          className="four wide computer twelve wide mobile eight wide tablet column"
+        >
+          <Description
+            imageText={
+              <HeaderText>
+                Empowering communities
+              </HeaderText>
+            }
+            imageURL="images/hands.jpg"
+            title="Community"
+          >
+            <Header
+              as="h3"
+              attached="top"
+              size="huge"
+              style={
+                Object {
+                  "backgroundColor": "#123b26",
+                  "color": "white",
+                }
+              }
+              textAlign="center"
+            >
+              <h3
+                className="ui huge top attached center aligned header"
+                style={
+                  Object {
+                    "backgroundColor": "#123b26",
+                    "color": "white",
+                  }
+                }
+              >
+                Community
+              </h3>
+            </Header>
+            <Container>
+              <div
+                className="ui container"
+              >
+                <Image
+                  as="img"
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "backgroundImage": "url(images/hands.jpg)",
+                      "backgroundRepeat": "no-repeat",
+                      "backgroundSize": "cover",
+                      "display": "flex",
+                      "flexWrap": "wrap",
+                      "height": "250px",
+                      "justifyContent": "center",
+                      "opacity": 0.5,
+                      "width": "100%",
+                    }
+                  }
+                  ui={true}
+                >
+                  <div
+                    className="ui image"
+                    style={
+                      Object {
+                        "alignItems": "center",
+                        "backgroundImage": "url(images/hands.jpg)",
+                        "backgroundRepeat": "no-repeat",
+                        "backgroundSize": "cover",
+                        "display": "flex",
+                        "flexWrap": "wrap",
+                        "height": "250px",
+                        "justifyContent": "center",
+                        "opacity": 0.5,
+                        "width": "100%",
+                      }
+                    }
+                  >
+                    <HeaderText>
+                      <Header
+                        style={
+                          Object {
+                            "color": "#ffffff",
+                            "fontSize": "30px",
+                            "textShadow": "1px 1px #000000",
+                          }
+                        }
+                        textAlign="center"
+                      >
+                        <div
+                          className="ui center aligned header"
+                          style={
+                            Object {
+                              "color": "#ffffff",
+                              "fontSize": "30px",
+                              "textShadow": "1px 1px #000000",
+                            }
+                          }
+                        >
+                          <HeaderContent>
+                            <div
+                              className="content"
+                            >
+                              Empowering communities
+                            </div>
+                          </HeaderContent>
+                        </div>
+                      </Header>
+                    </HeaderText>
+                  </div>
+                </Image>
+              </div>
+            </Container>
+            <Segment
+              size="huge"
+              style={
+                Object {
+                  "fontSize": "1.25rem",
+                  "height": "14em",
+                  "marginBottom": "2em",
+                }
+              }
+              textAlign="center"
+            >
+              <div
+                className="ui huge center aligned segment"
+                style={
+                  Object {
+                    "fontSize": "1.25rem",
+                    "height": "14em",
+                    "marginBottom": "2em",
+                  }
+                }
+              >
+                <p>
+                  Wā is a community-based platform aiming to build strong connections between people.
+                </p>
+                <p>
+                  Become more aware of the skills you have and what you can offer and discover what people around you can offer in return.
+                </p>
+              </div>
+            </Segment>
+          </Description>
+        </div>
+      </GridColumn>
+      <GridColumn
+        computer={4}
+        mobile={12}
+        tablet={8}
+      >
+        <div
+          className="four wide computer twelve wide mobile eight wide tablet column"
+        >
+          <Description
+            imageText={
+              <HeaderText>
+                Using Wa/Time as a currency
+              </HeaderText>
+            }
+            imageURL="images/tomatoes.jpg"
+            title="Exchange"
+          >
+            <Header
+              as="h3"
+              attached="top"
+              size="huge"
+              style={
+                Object {
+                  "backgroundColor": "#123b26",
+                  "color": "white",
+                }
+              }
+              textAlign="center"
+            >
+              <h3
+                className="ui huge top attached center aligned header"
+                style={
+                  Object {
+                    "backgroundColor": "#123b26",
+                    "color": "white",
+                  }
+                }
+              >
+                Exchange
+              </h3>
+            </Header>
+            <Container>
+              <div
+                className="ui container"
+              >
+                <Image
+                  as="img"
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "backgroundImage": "url(images/tomatoes.jpg)",
+                      "backgroundRepeat": "no-repeat",
+                      "backgroundSize": "cover",
+                      "display": "flex",
+                      "flexWrap": "wrap",
+                      "height": "250px",
+                      "justifyContent": "center",
+                      "opacity": 0.5,
+                      "width": "100%",
+                    }
+                  }
+                  ui={true}
+                >
+                  <div
+                    className="ui image"
+                    style={
+                      Object {
+                        "alignItems": "center",
+                        "backgroundImage": "url(images/tomatoes.jpg)",
+                        "backgroundRepeat": "no-repeat",
+                        "backgroundSize": "cover",
+                        "display": "flex",
+                        "flexWrap": "wrap",
+                        "height": "250px",
+                        "justifyContent": "center",
+                        "opacity": 0.5,
+                        "width": "100%",
+                      }
+                    }
+                  >
+                    <HeaderText>
+                      <Header
+                        style={
+                          Object {
+                            "color": "#ffffff",
+                            "fontSize": "30px",
+                            "textShadow": "1px 1px #000000",
+                          }
+                        }
+                        textAlign="center"
+                      >
+                        <div
+                          className="ui center aligned header"
+                          style={
+                            Object {
+                              "color": "#ffffff",
+                              "fontSize": "30px",
+                              "textShadow": "1px 1px #000000",
+                            }
+                          }
+                        >
+                          <HeaderContent>
+                            <div
+                              className="content"
+                            >
+                              Using Wa/Time as a currency
+                            </div>
+                          </HeaderContent>
+                        </div>
+                      </Header>
+                    </HeaderText>
+                  </div>
+                </Image>
+              </div>
+            </Container>
+            <Segment
+              size="huge"
+              style={
+                Object {
+                  "fontSize": "1.25rem",
+                  "height": "14em",
+                  "marginBottom": "2em",
+                }
+              }
+              textAlign="center"
+            >
+              <div
+                className="ui huge center aligned segment"
+                style={
+                  Object {
+                    "fontSize": "1.25rem",
+                    "height": "14em",
+                    "marginBottom": "2em",
+                  }
+                }
+              >
+                <p>
+                  Exchange the gift of time with people in your community.
+                </p>
+                <p>
+                  Use your time to do the things that really matter to the people around you and make your life richer by letting other people give you their time.
+                </p>
+              </div>
+            </Segment>
+          </Description>
+        </div>
+      </GridColumn>
+    </div>
+  </Grid>
+</Home>
+`;
